@@ -1,0 +1,11 @@
+Introdução ao git e github 
+
+O git é um sistema de controle de versões distribuído e 
+podemos utiliza-lo para enviar os nossos arquivos para o github.
+
+Sendo assim, podemos ter o arquivo local igual ao remoto e quando
+fizermos algumas alterações no arquivo local, enviaremos estas alterações
+para o remoto ficando ambos iguais.
+
+Link útil: 
+https://git-scm.com
